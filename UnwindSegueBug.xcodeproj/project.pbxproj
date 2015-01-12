@@ -17,7 +17,6 @@
 		D5D4C04D1A64223200E049F8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5D4C04C1A64223200E049F8 /* Images.xcassets */; };
 		D5D4C0501A64223200E049F8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D5D4C04E1A64223200E049F8 /* LaunchScreen.xib */; };
 		D5D4C05C1A64223200E049F8 /* UnwindSegueBugTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D5D4C05B1A64223200E049F8 /* UnwindSegueBugTests.m */; };
-		D5D4C0671A64230D00E049F8 /* ATableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D5D4C0661A64230D00E049F8 /* ATableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,8 +49,6 @@
 		D5D4C0551A64223200E049F8 /* UnwindSegueBugTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnwindSegueBugTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5D4C05A1A64223200E049F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D5D4C05B1A64223200E049F8 /* UnwindSegueBugTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UnwindSegueBugTests.m; sourceTree = "<group>"; };
-		D5D4C0651A64230D00E049F8 /* ATableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ATableViewController.h; sourceTree = "<group>"; };
-		D5D4C0661A64230D00E049F8 /* ATableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ATableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,8 +98,6 @@
 				D5D4C04C1A64223200E049F8 /* Images.xcassets */,
 				D5D4C04E1A64223200E049F8 /* LaunchScreen.xib */,
 				D5D4C03F1A64223200E049F8 /* Supporting Files */,
-				D5D4C0651A64230D00E049F8 /* ATableViewController.h */,
-				D5D4C0661A64230D00E049F8 /* ATableViewController.m */,
 				D5CBEAA61A6428C50096B00A /* BTableViewController.h */,
 				D5CBEAA71A6428C50096B00A /* BTableViewController.m */,
 				D5CBEAA91A6429600096B00A /* CTableViewController.h */,
@@ -240,7 +235,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				D5D4C0481A64223200E049F8 /* ViewController.m in Sources */,
-				D5D4C0671A64230D00E049F8 /* ATableViewController.m in Sources */,
 				D5D4C0451A64223200E049F8 /* AppDelegate.m in Sources */,
 				D5CBEAA81A6428C50096B00A /* BTableViewController.m in Sources */,
 				D5D4C0421A64223200E049F8 /* main.m in Sources */,
